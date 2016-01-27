@@ -31,7 +31,7 @@ describe Metro2::Records::HeaderSegment do
         'Credit Reporter'.ljust(40, ' '),
         '123 Report Dr Address CA 91111'.ljust(96, ' '),
         '5555555555',
-        'Upstart Engineer metro 2 gem'.ljust(40, ' '),
+        'iLoan Engineer metro 2 gem'.ljust(40, ' '),
         '01104',
         ' ' * 156
       ]
